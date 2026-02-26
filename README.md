@@ -1,5 +1,7 @@
 # Chrome HDMI for Channels (CH4C) proof of concept
 
+# This repository is no longer maintained - please use the excellent fork from [dravenst](https://github.com/dravenst/CH4C)
+
 This is a proof of concept that merges elements of the excellent [Chrome Capture for Channels](https://github.com/fancybits/chrome-capture-for-channels) and [HDMI for Channels](https://github.com/tmm1/androidhdmi-for-channels) projects, in an attempt to capture benefits of each.
 
 Specifically:
